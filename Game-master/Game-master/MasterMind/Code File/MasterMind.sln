@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterMind", "MasterMind\MasterMind.csproj", "{BBB5B6E9-F9B5-4A52-82C9-04EFCFBCD612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSamplerun", "GameSamplerun\GameSamplerun.csproj", "{73625530-CF0E-4A12-BB10-ADEFF369D1E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB5B6E9-F9B5-4A52-82C9-04EFCFBCD612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB5B6E9-F9B5-4A52-82C9-04EFCFBCD612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB5B6E9-F9B5-4A52-82C9-04EFCFBCD612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB5B6E9-F9B5-4A52-82C9-04EFCFBCD612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73625530-CF0E-4A12-BB10-ADEFF369D1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73625530-CF0E-4A12-BB10-ADEFF369D1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73625530-CF0E-4A12-BB10-ADEFF369D1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73625530-CF0E-4A12-BB10-ADEFF369D1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\hello\Documents\Visual Studio 2012\Projects\MasterMind\GameSamplerun\bin\Debug\GameSamplerun.exe.config
+C:\Users\hello\Documents\Visual Studio 2012\Projects\MasterMind\GameSamplerun\bin\Debug\GameSamplerun.exe
+C:\Users\hello\Documents\Visual Studio 2012\Projects\MasterMind\GameSamplerun\bin\Debug\GameSamplerun.pdb
+C:\Users\hello\Documents\Visual Studio 2012\Projects\MasterMind\GameSamplerun\bin\Debug\MasterMind.dll
+C:\Users\hello\Documents\Visual Studio 2012\Projects\MasterMind\GameSamplerun\bin\Debug\MasterMind.pdb
+C:\Users\hello\Documents\Visual Studio 2012\Projects\MasterMind\GameSamplerun\obj\Debug\GameSamplerun.csprojResolveAssemblyReference.cache
+C:\Users\hello\Documents\Visual Studio 2012\Projects\MasterMind\GameSamplerun\obj\Debug\GameSamplerun.exe
+C:\Users\hello\Documents\Visual Studio 2012\Projects\MasterMind\GameSamplerun\obj\Debug\GameSamplerun.pdb
